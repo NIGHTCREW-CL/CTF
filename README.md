@@ -27,6 +27,12 @@ Preservar el aprendizaje obtenido en ejercicios técnicos y convertir cada soluc
 
 **Estado:** base documental inicial. Los análisis, ejercicios y resultados se incorporarán cuando hayan sido elaborados y revisados.
 
+## Registro de participación
+
+| Ejercicio | Edición | Fecha | Posición | Referencia |
+| :--- | :--- | :--- | :--- | :--- |
+| Ejercicio Técnico CTF Llaitún 2026 · CIBERLAB | Smart City Edition | 5 de noviembre de 2026 | **9.ª** | [Clasificación](https://llaitun.my-ctf.com/scoreboard) |
+
 ## Principios
 
 Disciplina en el método, integridad en la evidencia y vocación de servicio. Priorizamos la utilidad del conocimiento, el respeto por la privacidad y la colaboración responsable.
