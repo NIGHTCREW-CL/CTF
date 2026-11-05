@@ -32,6 +32,7 @@ Preservar el aprendizaje obtenido en ejercicios técnicos y convertir cada soluc
 | Ejercicio | Edición | Fecha | Posición | Referencia |
 | :--- | :--- | :--- | :--- | :--- |
 | Ejercicio Técnico CTF Llaitún 2026 · CIBERLAB | Smart City Edition | 5 de noviembre de 2026 | **9.ª** | [Clasificación](https://llaitun.my-ctf.com/scoreboard) |
+| Ejercicio Nacional de Ciberseguridad · ANCI | Edición 2026 | 29 de octubre de 2026 | **6.ª nacional** | [Clasificación](https://anci.hackrocks.com/ctf/anci-ejercicio/clans) |
 
 ## Principios
 
