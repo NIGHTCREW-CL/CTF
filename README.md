@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="NIGHT CREW — Capture The Flag" />
+<img src="assets/banner.svg" width="100%" alt="NIGHT CREW — CTF / Capture The Flag. Banner animado con el logo original del cuervo." />
 
 <br />
+
+[![Metodología](assets/nav-method.svg)](docs/METODOLOGIA.md)
+[![Plantilla](assets/nav-template.svg)](templates/REGISTRO.md)
+[![Contribuir](assets/nav-contribute.svg)](CONTRIBUTING.md)
+
 <br />
 
 **Formación y ejercicios técnicos. Conocimiento al servicio de la seguridad digital.**
-
-[Metodología](docs/METODOLOGIA.md) &nbsp; / &nbsp; [Plantilla](templates/REGISTRO.md) &nbsp; / &nbsp; [Contribuir](CONTRIBUTING.md)
 
 </div>
 
@@ -42,8 +45,13 @@ Disciplina en el método, integridad en la evidencia y vocación de servicio. Pr
 
 <div align="center">
 
-[CTI](https://github.com/NIGHTCREW-CL/CTI) &nbsp; / &nbsp; [CTH](https://github.com/NIGHTCREW-CL/CTH) &nbsp; / &nbsp; [CTF](https://github.com/NIGHTCREW-CL/CTF) &nbsp; / &nbsp; [EH](https://github.com/NIGHTCREW-CL/EH)
+[![CTI](assets/nav-cti.svg)](https://github.com/NIGHTCREW-CL/CTI)
+[![CTH](assets/nav-cth.svg)](https://github.com/NIGHTCREW-CL/CTH)
+[![CTF](assets/nav-ctf.svg)](https://github.com/NIGHTCREW-CL/CTF)
+[![ETH](assets/nav-eth.svg)](https://github.com/NIGHTCREW-CL/ETH)
 
-<sub><strong>[NIGHT CREW](https://github.com/NIGHTCREW-CL)</strong> · Institución independiente, sin fines de lucro.</sub>
+[Volver a NIGHT CREW](https://github.com/NIGHTCREW-CL)
 
 </div>
+
+<img src="assets/footer.svg" width="100%" alt="NIGHT CREW. Grupo independiente, sin fines de lucro. Disciplina, rigor e integridad." />
